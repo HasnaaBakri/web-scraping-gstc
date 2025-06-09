@@ -1,6 +1,6 @@
 # Web Scraping (GSTC PDF Downloader)
 
-This project contains organized scripts for scraping PDF links from the [الأمانة العامة للجان الزكوية و الضريبية و الجمركية](https://gstc.gov.sa) website and downloading them into structured folders.
+This project contains organized scripts for scraping PDF links from the [الأمانة العامة للجان الزكوية و الضريبية و الجمركية]([https://gstc.gov.sa](https://gstc.gov.sa/ar/Decisions/Pages/decisions.aspx?year=2020&committee=&classification=&PageIndex=)) website and downloading them into structured folders.
 
 ## 📁 Project Structure
 
